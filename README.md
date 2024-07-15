@@ -3,13 +3,25 @@
 
 I'm actively seeking opportunities to apply my skills and contribute to exciting projects. Whether it's data analysis, visualization, machine learning, or any data-related challenge, I'm up for it!
 
+## 🚀 Open for Collaboration
+
 - 💼 Open to work on diverse projects
 - 🤝 Keen to collaborate with other data enthusiasts
 - 📊 Ready to tackle complex data problems
 - 🧠 Eager to learn and grow with each new challenge
 
-- 💡 Let's Connect!
+## 🛠 Skills at Your Service
+
+- Data Analysis & Visualization
+- SQL & Database Management
+- Python & R Programming
+- Machine Learning & Predictive Modeling
+- Power BI & Tableau
+- Statistical Analysis
+
+## 💡 Let's Connect!
 Have a project in mind or a data challenge you need help with? I'm all ears! Feel free to reach out, and let's create something amazing together.
+
 📫 **Contact me:**
 - Email: Emmanuel.osho022@gmail.com
 - LinkedIn: [Osho Emmanuel](https://www.linkedin.com/in/osho-emmanuel-72a868212/)
